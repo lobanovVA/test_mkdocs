@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://lobanovVA.github.io/test_for_MkDocs/v2.0/</loc>
+         <loc>https://lobanovVA.github.io/test_for_MkDocs/v1.0/</loc>
          <lastmod>2024-11-21</lastmod>
     </url>
     <url>
-         <loc>https://lobanovVA.github.io/test_for_MkDocs/v2.0/a/page2/</loc>
+         <loc>https://lobanovVA.github.io/test_for_MkDocs/v1.0/a/page2/</loc>
          <lastmod>2024-11-21</lastmod>
     </url>
     <url>
-         <loc>https://lobanovVA.github.io/test_for_MkDocs/v2.0/a/page3/</loc>
+         <loc>https://lobanovVA.github.io/test_for_MkDocs/v1.0/a/page3/</loc>
          <lastmod>2024-11-21</lastmod>
     </url>
 </urlset>

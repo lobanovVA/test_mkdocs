@@ -5,13 +5,13 @@ extra_css:
 extra:
   version:
     provider: mike
+    latest: latest
 theme:
   name: material
   features:
     - navigation.tabs      # Включить вкладки для верхнего меню
     - content.tabs.link
     - version-dropdown  # Включает выпадающее меню версий
-    - version-warning   # Показывает предупреждения для старых версий
 nav:
   - Home: index.md
   - About:
