@@ -10,6 +10,8 @@ theme:
   features:
     - navigation.tabs      # Включить вкладки для верхнего меню
     - content.tabs.link
+    - version-dropdown  # Включает выпадающее меню версий
+    - version-warning   # Показывает предупреждения для старых версий
 nav:
   - Home: index.md
   - About:
