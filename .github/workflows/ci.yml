@@ -26,4 +26,6 @@ jobs:
           restore-keys: |
             mkdocs-material-
       - run: pip install mkdocs-material mike
-      - run: mkdocs gh-deploy --force
+      - run: |
+        mike deploy --push --branch=gh-pages --update-aliases latest
+        mike set-default --push --branch=gh-pages latest
