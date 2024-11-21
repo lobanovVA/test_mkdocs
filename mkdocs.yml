@@ -11,6 +11,7 @@ theme:
   features:
     - navigation.tabs      # Включить вкладки для верхнего меню
     - content.tabs.link
+    - navigation.sections
     - version-dropdown  # Включает выпадающее меню версий
 nav:
   - Home: index.md
