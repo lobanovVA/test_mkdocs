@@ -29,5 +29,3 @@ jobs:
       - name: Get version from tag
         id: get_version
         run: echo "::set-output name=version::$(git describe --tags --abbrev=0)"
-
-      - name: Deploy documentation
