@@ -40,3 +40,10 @@ markdown_extensions:
       alternate_style: true
 plugins:
   - mike
+
+site_name: My Docs
+theme:
+  name: material
+extra:
+  version:
+    provider: mike
