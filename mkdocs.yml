@@ -1,5 +1,5 @@
 site_name: My
-site_url: https://lobanovVA.github.io/test_for_MkDocs/
+site_url: https://lobanovVA.github.io/test_mkdocs
 extra_css:
   - styles/custom.css
 extra:
