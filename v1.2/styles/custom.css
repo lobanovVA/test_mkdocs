@@ -1,0 +1,8 @@
+.md-tabs {
+    justify-content: flex-start; /* Выравнивание вкладок влево */
+}
+
+.md-tab--active {
+    font-weight: bold; /* Выделение активной вкладки */
+    color: #007BFF;    /* Цвет активной вкладки */
+}
