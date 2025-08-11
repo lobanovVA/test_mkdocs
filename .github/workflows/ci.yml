@@ -35,5 +35,5 @@ jobs:
       - name: Deploy docs with mike
         run: |
           git fetch origin gh-pages --depth=1 || true
-          mike deploy --push --update-aliases v1.4.5 latest
+          mike deploy --push --update-aliases v1.3
           mike set-default latest --push
